@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in IT / networking / programming
+- 🌱 I’m currently learning Symfony (PHP), CNC controling
+- 💞️ I’m looking to collaborate on PHP utility projects (CRUD Apps)
+- 📫 How to reach me luzioo@gmail.com
